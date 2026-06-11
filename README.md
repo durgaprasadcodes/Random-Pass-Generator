@@ -6,7 +6,7 @@ This project demonstrates **JavaScript logic, conditional handling, and DOM mani
 ----
 
 ## 🌐 Live Demo
-👉 **[Click here to view live demo](https://durgaprasad4289.github.io/Random-Pass-Generator/)**
+👉 **[Click here to view live demo](https://durgaprasadcodes.github.io/Random-Pass-Generator/)**
 
 ----
 
